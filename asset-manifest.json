@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sanjeevkumarrbca/static-website/static/css/main.d863c4d0.css",
+    "main.js": "/sanjeevkumarrbca/static-website/static/js/main.8026fe98.js",
+    "static/js/787.d65a6fad.chunk.js": "/sanjeevkumarrbca/static-website/static/js/787.d65a6fad.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/sanjeevkumarrbca/static-website/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/sanjeevkumarrbca/static-website/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/logo.svg": "/sanjeevkumarrbca/static-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sanjeevkumarrbca/static-website/index.html",
+    "main.d863c4d0.css.map": "/sanjeevkumarrbca/static-website/static/css/main.d863c4d0.css.map",
+    "main.8026fe98.js.map": "/sanjeevkumarrbca/static-website/static/js/main.8026fe98.js.map",
+    "787.d65a6fad.chunk.js.map": "/sanjeevkumarrbca/static-website/static/js/787.d65a6fad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d863c4d0.css",
+    "static/js/main.8026fe98.js"
+  ]
+}
